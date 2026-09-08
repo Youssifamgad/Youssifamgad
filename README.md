@@ -38,12 +38,12 @@ Graduate **Mechatronics & Robotics Engineer** passionate about bridging the gap 
 
 ---
 
-### 📊 GitHub Overview
+### 🎯 Specialization Metrics
 
 <div align="center">
 
-<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Youssifamgad&show_icons=true&theme=dark&hide_border=true" width="48%" />
-<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Youssifamgad&layout=compact&theme=dark&hide_border=true" width="48%" />
+![Field](https://img.shields.io/badge/Primary_Domain-Industrial_Automation_%26_Robotics-blue?style=for-the-badge)
+![Experience](https://img.shields.io/badge/Focus-PLC_%2F_SCADA_%2F_AI_Workflows-green?style=for-the-badge)
 
 </div>
 
