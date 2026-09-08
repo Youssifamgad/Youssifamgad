@@ -38,11 +38,12 @@ Graduate **Mechatronics & Robotics Engineer** passionate about bridging the gap 
 
 ---
 
-### 📈 Activity & Contribution Graph
+### 📊 GitHub Overview
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Youssifamgad&theme=react-dark&hide_border=true&area=true" width="100%" />
+<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Youssifamgad&show_icons=true&theme=dark&hide_border=true" width="48%" />
+<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Youssifamgad&layout=compact&theme=dark&hide_border=true" width="48%" />
 
 </div>
 
