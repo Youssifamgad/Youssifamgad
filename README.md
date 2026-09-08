@@ -7,9 +7,9 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yousef-amgad/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yousefamgad230@gmail.com)
-[![Location](https://img.shields.io/badge/Location-Cairo%2C%20Egypt-red?style=for-the-badge&logo=googlemaps&logoColor=white)](#)
+[![Portfolio](https://img.shields.io/badge/Website-Youssifamgad.github.io-107C41?style=for-the-badge&logo=github&logoColor=white)](https://Youssifamgad.github.io)
 
-[![Profile Views](https://komarev.com/ghpvc/?username=Youssifamgad&color=blueviolet&style=flat-square&label=PROFILE+VIEWS)](https://github.com/Youssifamgad)
+[![Profile Views](https://komarev.com/ghpvc/?username=Youssifamgad&color=0073ec&style=for-the-badge&label=PROFILE+VIEWS)](https://github.com/Youssifamgad)
 
 </div>
 
@@ -24,23 +24,25 @@ Graduate **Mechatronics & Robotics Engineer** passionate about bridging the gap 
 
 ---
 
-### 🛠 Tech Stack & Tools
-
-| Domain | Technologies |
-| :--- | :--- |
-| **Industrial Automation** | Siemens TIA Portal (S7-1200/1500), WinCC SCADA, Factory I/O, VFDs, Servo Control |
-| **Programming & AI** | Python, C/C++, MATLAB, OpenCV, Machine Learning, AI Workflows |
-| **CAD & Simulation** | SolidWorks, MATLAB Simulink, Proteus |
-| **Tools & Platforms** | Git, GitHub, Linux, Jupyter Notebooks |
-
----
-
-### 📊 GitHub Stats
+### 🛠 Tech Stack & Hardware Tools
 
 <div align="center">
 
-<img src="https://github-stats-extended.vercel.app/api?username=Youssifamgad&show_icons=true&theme=dark&hide_border=true" width="48%" />
-<img src="https://github-stats-extended.vercel.app/api/top-langs/?username=Youssifamgad&layout=compact&theme=dark&hide_border=true" width="48%" />
+| Category | Technologies & Tools |
+| :--- | :--- |
+| **Industrial Automation** | ![Siemens](https://img.shields.io/badge/Siemens_TIA_Portal-006470?style=flat-square&logo=siemens&logoColor=white) ![PLC](https://img.shields.io/badge/S7--1200%2F1500-003366?style=flat-square) ![WinCC](https://img.shields.io/badge/WinCC_SCADA-005A9C?style=flat-square) ![Factory I/O](https://img.shields.io/badge/Factory_I%2FO-FF6600?style=flat-square) |
+| **Programming & AI** | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=cplusplus&logoColor=white) ![MATLAB](https://img.shields.io/badge/MATLAB-e16737?style=flat-square&logo=mathworks&logoColor=white) ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white) |
+| **Engineering & CAD** | ![SolidWorks](https://img.shields.io/badge/SolidWorks-D32F2F?style=flat-square&logo=dassaultsystemes&logoColor=white) ![Simulink](https://img.shields.io/badge/Simulink-0076A8?style=flat-square) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black) |
+
+</div>
+
+---
+
+### 📈 Activity & Contribution Graph
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Youssifamgad&theme=react-dark&hide_border=true&area=true" width="100%" />
 
 </div>
 
