@@ -1,6 +1,6 @@
-# 🦾 Yousef Amgad Nagy
-
 <div align="center">
+
+# 🦾 Yousef Amgad Nagy
 
 ### Industrial Automation & AI Systems Engineer
 *Designing Intelligent Systems | Optimizing Industrial Workflows | Robotics & Dynamics*
