@@ -1,55 +1,49 @@
 <div align="center">
 
-# 🦾 Yousef Amgad Nagy
-### **Industrial Automation & AI Systems Engineer**
+# Yousef Amgad Nagy
+### Industrial Automation · Robotics · AI Workflows
 
-*Designing Intelligent Systems | Optimizing Industrial Workflows | Robotics & Dynamics*
+Connecting physical systems with software, control and practical automation.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yousefamgad)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/?view=cm&fs=1&to=yousefamgad230@gmail.com)
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/201287981661)
-[![GitHub](https://komarev.com/ghpvc/?username=Youssifamgad&color=0073ec&style=for-the-badge&label=PROFILE+VIEWS)](https://github.com/Youssifamgad)
+**[EXPLORE MY PORTFOLIO ↗](https://youssifamgad.github.io/eng-yousefamgad.github.io/)**
 
-</div>
-
----
-
-### 🌟 About Me
-Graduate **Mechatronics & Robotics Engineer** passionate about bridging the gap between hardware engineering and intelligent AI workflows. Experienced in heavy industrial environments (sugar manufacturing, steel structure fabrication, power plants) with expertise in PLC programming, SCADA design, and motor control.
-
-- ⚙️ **Core Focus:** Industrial Automation, Process Control, Robotics & Computer Vision.
-- 💻 **Key Tech:** Siemens TIA Portal, WinCC, PLC/SCADA, Python, C++, MATLAB/Simulink.
-- 🤖 **AI Integration:** Integrating LLMs, automated data workflows, and vision system inspection into manufacturing setups.
-
----
-
-### 🛠 Tech Stack & Hardware Tools
-
-<div align="center">
-
-| Category | Technologies & Tools |
-| :--- | :--- |
-| **Industrial Automation** | ![Siemens](https://img.shields.io/badge/Siemens_TIA_Portal-006470?style=flat-square&logo=siemens&logoColor=white) ![PLC](https://img.shields.io/badge/S7--1200%2F1500-003366?style=flat-square) ![WinCC](https://img.shields.io/badge/WinCC_SCADA-005A9C?style=flat-square) ![Factory I/O](https://img.shields.io/badge/Factory_I%2FO-FF6600?style=flat-square) |
-| **Programming & AI** | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=cplusplus&logoColor=white) ![MATLAB](https://img.shields.io/badge/MATLAB-e16737?style=flat-square&logo=mathworks&logoColor=white) ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white) |
-| **Engineering & CAD** | ![SolidWorks](https://img.shields.io/badge/SolidWorks-D32F2F?style=flat-square&logo=dassaultsystemes&logoColor=white) ![Simulink](https://img.shields.io/badge/Simulink-0076A8?style=flat-square) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black) |
+[LinkedIn](https://www.linkedin.com/in/yousefamgad/) · [Email](mailto:yousefamgad230@gmail.com) · [CV](https://youssifamgad.github.io/eng-yousefamgad.github.io/assets/Yousef-Amgad-CV.pdf)
 
 </div>
 
+## About me
+
+I’m a Mechatronics and Robotics Engineering undergraduate at the Egyptian Russian University (2022–present), focused on industrial automation, motor control, robotics simulation and AI-powered workflows. My industrial training includes Ezz Steel, Beshay Steel and Evergrow for Fertilizers.
+
+I enjoy the point where a mechanical idea, an electrical circuit and a line of code become one working system.
+
+## Selected projects
+
+| Project | Focus | Explore |
+| :--- | :--- | :--- |
+| **AI Customer Support Agent** | Bilingual Telegram support with document retrieval, n8n, Gemini and Pinecone | [Code](https://github.com/Youssifamgad/n8n-RAG-Customer-Support-Agent) · [Case study](https://youssifamgad.github.io/eng-yousefamgad.github.io/projects/01-ai-customer-support.html) |
+| **Industrial Robotic Writing** | Python, CoppeliaSim, inverse kinematics and trajectory following | [Demo & details](https://youssifamgad.github.io/eng-yousefamgad.github.io/projects/02-robot-writing.html) |
+| **Theo Jansen Octopod** | Eight-legged walking robot, Arduino and 3D-printed linkages | [Project gallery](https://youssifamgad.github.io/eng-yousefamgad.github.io/projects/03-octopod-robot.html) |
+| **MATLAB Voice Changer** | Pitch and speed control, waveform display and FFT analysis | [Demo & details](https://youssifamgad.github.io/eng-yousefamgad.github.io/projects/04-matlab-voice-changer.html) |
+| **Industrial Automation Practice** | Classic control, PLC programming, motors and drives | [Training & work](https://youssifamgad.github.io/eng-yousefamgad.github.io/projects/05-industrial-automation.html) |
+
+## Engineering toolkit
+
+- **Automation:** Siemens TIA Portal V16, PLC, SCADA, Factory I/O, classic control, motor and drive control.
+- **Robotics & programming:** Python, C/C++, Arduino, MATLAB, CoppeliaSim and forward/inverse kinematics.
+- **Design & simulation:** SolidWorks, AutoCAD, Altium Designer, Proteus and OrCAD.
+- **AI workflows:** n8n, Gemini, Pinecone, Telegram and retrieval-augmented generation.
+
+## Experience & learning
+
+- **DEPI / MCIT** — AI Automation Trainee, July 2026–present.
+- **Ezz Steel** — Industrial training, June 2026.
+- **Beshay Steel** — Control Engineering Intern, August 2025.
+- **Evergrow for Fertilizers** — Industrial training, August 2025.
+- **HA Consulting Group** — Basic Automation Diploma, July–September 2025; 60 practical applications across control, PLC and motor/drive systems.
+
+[See project videos, photographs, certifications and my full CV →](https://youssifamgad.github.io/eng-yousefamgad.github.io/)
+
 ---
 
-### 🎯 Specialization Metrics
-
-<div align="center">
-
-![Field](https://img.shields.io/badge/Primary_Domain-Industrial_Automation_%26_Robotics-blue?style=for-the-badge)
-![Experience](https://img.shields.io/badge/Focus-PLC_%2F_SCADA_%2F_AI_Workflows-green?style=for-the-badge)
-
-</div>
-
----
-
-<div align="center">
-
-*"Automating the future, one workflow at a time."*
-
-</div>
+Interested in opportunities and collaboration in industrial automation, robotics and AI workflows. **[Let’s connect](mailto:yousefamgad230@gmail.com).**
