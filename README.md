@@ -1,49 +1,83 @@
 <div align="center">
 
 # Yousef Amgad Nagy
-### Industrial Automation · Robotics · AI Workflows
+### Mechatronics Engineering | Industrial Automation
 
-Connecting physical systems with software, control and practical automation.
+PLC programming · SCADA · Motor & Drive Control · Robotics
 
-**[EXPLORE MY PORTFOLIO ↗](https://youssifamgad.github.io/eng-yousefamgad.github.io/)**
+**[Explore my portfolio ↗](https://youssifamgad.github.io/portfolio/)**
 
-[LinkedIn](https://www.linkedin.com/in/yousefamgad/) · [Email](mailto:yousefamgad230@gmail.com) · [CV](https://youssifamgad.github.io/eng-yousefamgad.github.io/assets/Yousef-Amgad-CV.pdf)
+[LinkedIn](https://www.linkedin.com/in/yousefamgad/) · [Email](mailto:yousefamgad230@gmail.com) · [Download my CV](https://youssifamgad.github.io/portfolio/assets/Yousef-Amgad-CV.pdf)
 
 </div>
 
 ## About me
 
-I’m a Mechatronics and Robotics Engineering undergraduate at the Egyptian Russian University (2022–present), focused on industrial automation, motor control, robotics simulation and AI-powered workflows. My industrial training includes Ezz Steel, Beshay Steel and Evergrow for Fertilizers.
+I’m a Mechatronics Engineering undergraduate at the Egyptian Russian University (2022–present), studying the **Industrial Automation track**. I’m interested in how PLC programs, sensors, motors and mechanical systems work together in an industrial process.
 
-I enjoy the point where a mechanical idea, an electrical circuit and a line of code become one working system.
+My hands-on experience includes control circuits, Siemens PLC programming, Factory I/O simulations and industrial training at Ezz Steel, Beshay Steel and Evergrow for Fertilizers. I also build robotics, MATLAB and AI automation projects.
 
-## Selected projects
+## My projects
 
-| Project | Focus | Explore |
-| :--- | :--- | :--- |
-| **AI Customer Support Agent** | Bilingual Telegram support with document retrieval, n8n, Gemini and Pinecone | [Code](https://github.com/Youssifamgad/n8n-RAG-Customer-Support-Agent) · [Case study](https://youssifamgad.github.io/eng-yousefamgad.github.io/projects/01-ai-customer-support.html) |
-| **Industrial Robotic Writing** | Python, CoppeliaSim, inverse kinematics and trajectory following | [Demo & details](https://youssifamgad.github.io/eng-yousefamgad.github.io/projects/02-robot-writing.html) |
-| **Theo Jansen Octopod** | Eight-legged walking robot, Arduino and 3D-printed linkages | [Project gallery](https://youssifamgad.github.io/eng-yousefamgad.github.io/projects/03-octopod-robot.html) |
-| **MATLAB Voice Changer** | Pitch and speed control, waveform display and FFT analysis | [Demo & details](https://youssifamgad.github.io/eng-yousefamgad.github.io/projects/04-matlab-voice-changer.html) |
-| **Industrial Automation Practice** | Classic control, PLC programming, motors and drives | [Training & work](https://youssifamgad.github.io/eng-yousefamgad.github.io/projects/05-industrial-automation.html) |
+### [AI Customer Support Agent](https://youssifamgad.github.io/portfolio/projects/01-ai-customer-support.html)
 
-## Engineering toolkit
+I built a Telegram customer support agent that answers questions in Arabic and English using store documents and policies. This was a practical project during my DEPI training.
 
-- **Automation:** Siemens TIA Portal V16, PLC, SCADA, Factory I/O, classic control, motor and drive control.
-- **Robotics & programming:** Python, C/C++, Arduino, MATLAB, CoppeliaSim and forward/inverse kinematics.
+I connected document processing, retrieval and replies in n8n. I used Google Gemini for the language model and embeddings, Pinecone to store and retrieve document information, and the Telegram API for customer conversations.
+
+[Photos, demo & project details →](https://youssifamgad.github.io/portfolio/projects/01-ai-customer-support.html)
+
+### [Industrial Robotic Writing System](https://youssifamgad.github.io/portfolio/projects/02-robot-writing.html)
+
+I programmed a robotic arm simulation to write numbers on paper using Python and CoppeliaSim. The main challenge was keeping the writing steady and accurate throughout the movement.
+
+I worked on forward and inverse kinematics, coordinate transformations and path following. I adjusted pen depth and orientation, reduced vibrations from the IK solution, and maintained a stable elbow-up configuration.
+
+[Photos, demo & project details →](https://youssifamgad.github.io/portfolio/projects/02-robot-writing.html)
+
+### [3D-Printed Theo Jansen Style Octopod Robot](https://youssifamgad.github.io/portfolio/projects/03-octopod-robot.html)
+
+As part of my Embedded Systems coursework, I designed and built an eight-legged walking robot inspired by the Theo Jansen linkage mechanism.
+
+I worked on the 3D-printed mechanical structure and integrated Arduino control with DC motors and a motor driver. The linkage converts motor rotation into a walking motion, connecting the mechanical design with the electrical and embedded control systems.
+
+[Photos, demo & project details →](https://youssifamgad.github.io/portfolio/projects/03-octopod-robot.html)
+
+### [Voice Changer GUI using MATLAB](https://youssifamgad.github.io/portfolio/projects/04-matlab-voice-changer.html)
+
+I developed a voice changer in MATLAB App Designer as an academic Digital Signal Processing project. The interface lets the user change audio pitch and playback speed.
+
+I built the GUI, displayed audio waveforms and used FFT to explore the frequency content. I also worked with real audio files and handled errors during playback and processing.
+
+[Photos, demo & project details →](https://youssifamgad.github.io/portfolio/projects/04-matlab-voice-changer.html)
+
+### [Industrial Automation Projects](https://youssifamgad.github.io/portfolio/projects/05-industrial-automation.html)
+
+During the Basic Automation Diploma at HA Consulting Group, I worked on 60 practical automation applications across classic control, basic PLC programming, and electric motors and drives.
+
+I designed and wired control circuits, wrote PLC programs in Siemens TIA Portal V16 and simulated industrial processes in Factory I/O. I built and tested the exercises to understand how sensors, control logic and drives work together.
+
+[Photos, demo & project details →](https://youssifamgad.github.io/portfolio/projects/05-industrial-automation.html)
+
+## Tools I use
+
+- **Industrial Automation:** Siemens TIA Portal V16, PLC, SCADA, Factory I/O, classic control, motors and drives.
+- **Robotics & programming:** Python, C/C++, Arduino, MATLAB, CoppeliaSim, forward and inverse kinematics.
 - **Design & simulation:** SolidWorks, AutoCAD, Altium Designer, Proteus and OrCAD.
-- **AI workflows:** n8n, Gemini, Pinecone, Telegram and retrieval-augmented generation.
+- **AI automation:** n8n, Gemini, Pinecone, Telegram and RAG.
 
-## Experience & learning
+## Training & experience
 
-- **DEPI / MCIT** — AI Automation Trainee, July 2026–present.
-- **Ezz Steel** — Industrial training, June 2026.
-- **Beshay Steel** — Control Engineering Intern, August 2025.
-- **Evergrow for Fertilizers** — Industrial training, August 2025.
-- **HA Consulting Group** — Basic Automation Diploma, July–September 2025; 60 practical applications across control, PLC and motor/drive systems.
+- **DEPI / MCIT:** AI Automation Trainee, July 2026–present.
+- **Ezz Steel:** Industrial training, June 2026.
+- **Beshay Steel:** Control Engineering Internship, August 2025.
+- **Evergrow for Fertilizers:** Industrial training, August 2025.
+- **HA Consulting Group:** Basic Automation Diploma, July–September 2025.
 
-[See project videos, photographs, certifications and my full CV →](https://youssifamgad.github.io/eng-yousefamgad.github.io/)
+[See my experience, events and certificates →](https://youssifamgad.github.io/portfolio/#experience)
 
----
+## Get in touch
 
-Interested in opportunities and collaboration in industrial automation, robotics and AI workflows. **[Let’s connect](mailto:yousefamgad230@gmail.com).**
+I’m interested in internship opportunities and practical projects in **Industrial Automation**, control systems and robotics.
+
+[Email me](mailto:yousefamgad230@gmail.com) · [Connect on LinkedIn](https://www.linkedin.com/in/yousefamgad/)
